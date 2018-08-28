@@ -1,5 +1,5 @@
 # Redis-And-Flask
-Aplicacion Web, desarrollada en Python, con consultas a un container redis de docker con data persistente.
+Aplicacion Web, desarrollada en Python, con consultas a un container redis con data persistente.
 ### Para levantar la aplicación de consultas
 
 Levantar el container de redis en el puerto 261 con el volumen definido al directorio "/data" presente en el directorio.
