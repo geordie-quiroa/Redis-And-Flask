@@ -1,10 +1,5 @@
 import redis
-import json
 from flask import Flask, render_template, request
-
-#docker run --name docker_redis -v $(pwd)/data:/data -p 181:6379 -d redis redis-server --appendonly yes
-#docker rm docker_redis
-#descargar sudo apt-get install redis-tools 
 app = Flask(__name__)
 conn = redis.StrictRedis(host='209.97.137.35', port='261')
 
