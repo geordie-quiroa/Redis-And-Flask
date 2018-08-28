@@ -1,7 +1,7 @@
 import redis
 from flask import Flask, render_template, request
 app = Flask(__name__)
-conn = redis.StrictRedis(host='209.97.137.35', port='261')
+conn = redis.StrictRedis(host='localhost', port='261')
 
 @app.route('/', methods = ['GET', 'POST'])
 def homepage():
