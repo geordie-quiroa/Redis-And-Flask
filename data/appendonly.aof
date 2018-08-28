@@ -1,0 +1,137 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$8
+20170481
+$14
+Geordie Quiroa
+*3
+$3
+SET
+$8
+20170482
+$16
+Juan Diego Sique
+*3
+$3
+SET
+$8
+20170483
+$16
+Fabrizzio Rivera
+*3
+$3
+SET
+$8
+20170484
+$13
+Juan Barillas
+*3
+$3
+SET
+$8
+20170485
+$12
+Chino Guzman
+*3
+$3
+SET
+$8
+20170486
+$22
+Jose Alejandro Madrazo
+*3
+$3
+SET
+$7
+2017048
+$13
+Victor Farfan
+*3
+$3
+SET
+$8
+20170485
+$12
+Josue Bulnes
+*3
+$3
+SET
+$8
+20170485
+$12
+Chino Guzman
+*3
+$3
+SET
+$8
+20170487
+$13
+Victor Farfan
+*2
+$3
+DEL
+$7
+2017048
+*3
+$3
+SET
+$8
+20170488
+$13
+Victor Farfan
+*3
+$3
+SET
+$11
+Catedratico
+$11
+Marcos Cano
+*2
+$3
+DEL
+$11
+Catedratico
+*3
+$3
+SET
+$12
+Catedrático
+$11
+Marcos Cano
+*3
+$3
+SET
+$8
+Auxiliar
+$14
+Yolanda López
+*2
+$3
+DEL
+$12
+Catedrático
+*2
+$3
+DEL
+$8
+Auxiliar
+*3
+$3
+SET
+$11
+Catedratico
+$11
+Marcos Cano
+*3
+$3
+SET
+$8
+Auxiliar
+$13
+Yolanda Lopez
