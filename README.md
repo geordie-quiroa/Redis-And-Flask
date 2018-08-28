@@ -16,7 +16,7 @@ También se puede inicar flask en un container para evitar correr la línea ante
 ```
 docker build -t nombre-imagen .
 ```
-Para consultar las llaves guardadas en el volumen, correr el siguiente comando para ingresar al redis client.
+Para consultar las llaves guardadas en el volumen, dentro del container "redis-container", correr el siguiente comando para ingresar al redis client.
 ```
 docker run -it --link redis-container:redis --rm redis redis-cli -h redis -p 6379
 ```
