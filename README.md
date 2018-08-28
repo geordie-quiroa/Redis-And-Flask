@@ -1,8 +1,8 @@
 # Redis-And-Flask
 Aplicacion Web, desarrollada en Python, con consultas a un container redis de docker con data persistente.
-### Para levantar Flask App
+### Para levantar la Aplicación de consultas
 
-Levantar el container de redis en el puerto 261 con el volumen definido al directorio /data presente en el repositorio.
+Levantar el container de redis en el puerto 261 con el volumen definido al directorio "/data" presente en el directorio.
 ```
 docker run -v $(pwd)/data:/data --name redis-container -p 261:6379 -d redis redis-server --appendonly yes
 ```
