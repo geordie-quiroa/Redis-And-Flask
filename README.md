@@ -18,7 +18,7 @@ docker build -t nombre-imagen .
 ```
 Levantar el container a partir de la imagen creada en la linea anterior.
 ```
-docker run -i -t nombre-imagen
+docker run -it nombre-imagen
 ```
 Para consultar las llaves guardadas en el volumen, dentro del container "redis-container", correr el siguiente comando para ingresar al redis client.
 ```
